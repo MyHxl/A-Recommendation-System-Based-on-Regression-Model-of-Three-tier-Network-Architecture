@@ -1,0 +1,2 @@
+# A-Recommendation-System-Based-on-Regression-Model-of-Three-tier-Network-Architecture
+we construct a three layers network framework of user similarity network, item similarity network and evaluation network between users and items through social network (SNS) data and evaluation matrix data. Based on this, we developed a model to calculate the similarity of different users by similarity of items evaluated by users.
